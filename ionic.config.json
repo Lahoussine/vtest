@@ -1,0 +1,8 @@
+{
+  "name": "vtest",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "eac64a96"
+}
